@@ -1,5 +1,8 @@
-# convert-E-NFA-to-DFA
-Conversion of Epsilon-NFA to DFA
+# By taking an input of a non-deterministic finite automata and a number of strings, determine the membership or non-membership of each string in the given automata language.
+
+
+
+
 input :
 
 The first line of the input will contain five integers that represent the number of automata states[q], the number of language alphabets[s], the number of acceptance states[a], the number of automata transitions[m], and
